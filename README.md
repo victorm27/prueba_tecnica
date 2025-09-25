@@ -20,7 +20,7 @@ Este proyecto es una solución para la prueba técnica solicitada, desarrollada 
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/victorm27/prueba_tecnica.git
    cd Laravel
    ```
 2. Instala dependencias:
