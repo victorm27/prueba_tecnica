@@ -69,8 +69,8 @@ Este proyecto es una solución para la prueba técnica solicitada, desarrollada 
 - SQL en `sql/schema.sql`
 
 ## Autor
-Victor Gomez
-Correo: victor.gomez@correo.com
+Victor  Manuel Gomez
+Correo: victormanuel272791@gmail.com
 
 ---
 
